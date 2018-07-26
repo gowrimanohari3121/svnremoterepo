@@ -1,1 +1,1 @@
-hi welcome to local git repo
+hi welcome to local git repo cloned from svn repo
