@@ -1,4 +1,0 @@
-welcome to svn basics
-
-hai hello
- 
